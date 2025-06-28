@@ -40,7 +40,7 @@ Edusite/
 Open index.html in your browser.
 
 📸 Preview
-
+https://edusite-courses.netlify.app/
 
 ✍️ Author
 Payal Sawant
